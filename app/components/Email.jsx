@@ -1,4 +1,4 @@
-"use client";
+ a"use client";
 import { CiMail } from "react-icons/ci";
 
 import React, { useState } from "react";
