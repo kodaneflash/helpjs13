@@ -4,7 +4,7 @@ import "./globals.css";
 import Headpage from "./Header/page";
 import Footer from "./Footer/page";
 
-export default function RootLayout({ children }) {
+app/layout.tsction RootLayout({ children }) {
   return (
     <html lang="en">
       <body>

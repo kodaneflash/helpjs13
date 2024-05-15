@@ -8,23 +8,6 @@
   }
 }
 
-@font-face {
-  font-family: PoppinsBlack;
-  src: url("../public/font/PoppinsBlack.ttf");
-}
-@font-face {
-  font-family: PoppinsBold;
-  src: url("../public/font/PoppinsBold.ttf");
-}
-@font-face {
-  font-family: PoppinsMedium;
-  src: url("../public/font/PoppinsMedium.ttf");
-}
-@font-face {
-  font-family: PoppinsRegular;
-  src: url("../public/font/PoppinsRegular.ttf");
-}
-
 .bigTexr {
   width: 80%;
   max-width: 780px;
